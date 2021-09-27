@@ -57,4 +57,3 @@ _React, uuid, bootstrap, css_
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
